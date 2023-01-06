@@ -5,6 +5,6 @@ In this work, we propose a novel rare-aware attention network (RAAN), which expl
 ## Requirements and Installation
 We recommended the following dependencies.      
 * Python 3.8    
-* PyTorch 1.10.0 (http://pytorch.org/)  
-* NumPy (>1.19.5)([http://pytorch.org/](http://www.numpy.org/))   
-* TensorBoard([http://pytorch.org/](https://github.com/TeamHG-Memex/tensorboard_logger))   
+* [PyTorch 1.10.0](http://pytorch.org/)  
+* [[NumPy (>1.19.5)]([http://pytorch.org/](http://www.numpy.org/))   
+* [TensorBoard]([http://pytorch.org/](https://github.com/TeamHG-Memex/tensorboard_logger))   
