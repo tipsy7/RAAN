@@ -11,6 +11,6 @@ We recommended the following dependencies.
 ## Download data
 The data files used are from [GSMN](https://github.com/CrossmodalGroup/GSMN)  
 ## Training
-python train.py --data_name f30k_precomp --bi_gru --max_violation --lambda_softmax=20 --num_epochs=20 --lr_update=10 --learning_rate=.0002  --embed_size=1024 --batch_size=146
+    python train.py --data_name f30k_precomp --bi_gru --max_violation --lambda_softmax=20 --num_epochs=20 --lr_update=10 --learning_rate=.0002  --embed_size=1024 --batch_size=146
 ## Evaluation
-python test.py
+    python test.py
